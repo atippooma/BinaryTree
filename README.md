@@ -11,4 +11,4 @@ and we call one of the children left child and another one is right child
 
 ![Binarytree example](https://user-images.githubusercontent.com/94521600/151755560-5c2a6811-4134-40ff-8825-08f7f4a73124.png | width=100)
 
-<img src="icon.jpg" width="324" height="324">
+<img src="BinaryTree/image/BinaryTree example" width="324" height="324">
