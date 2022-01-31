@@ -10,3 +10,5 @@ and we call one of the children left child and another one is right child
     โครงสร้างต้นไม้ทวิภาค  คือ โครงสร้างแบบต้นที่แต่ละโหนดสามารถมีโหนดลูกได้เพียงสองโหนดเท่านั้น โดยโหนดบนจุดยอดจะถูกเรียกว่าโหนดราก (Root) โหนดที่ยึดโหนดลุกเรียกว่า parent nodes  และจะสามารถเรียกโหนดที่แยกออกมาว่า โหนดลูก(Child) โดยจะเรียกว่า ลูกทางซ้าย(left child) และลูกทางขวา (right child)
 
 ![Binarytree example](https://user-images.githubusercontent.com/94521600/151755560-5c2a6811-4134-40ff-8825-08f7f4a73124.png | width=100)
+
+<img src="icon.jpg" width="324" height="324">
