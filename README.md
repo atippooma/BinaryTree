@@ -11,6 +11,4 @@ and we call one of the children left child and another one is right child
 
 <img src ="https://user-images.githubusercontent.com/94521600/151758740-7af075be-1495-4c73-87e0-525c513c51ef.png" width="1000" height="500" >
 
-![Uploading BinaryTree-component.png…]()
-
-
+![BinaryTree-component](https://user-images.githubusercontent.com/94521600/151920936-d55b2ea1-81d5-4485-9ba0-b96d839af184.png)
